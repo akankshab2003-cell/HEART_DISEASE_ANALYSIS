@@ -111,4 +111,4 @@ Diabetes and hypertension are strongly associated with increased mortality
 Survival probability decreases steadily with age
 
 # Screenshot of the project
-!image[alt]("https://github.com/akankshab2003-cell/HEART_DISEASE_ANALYSIS/blob/08c1f6f8a0789a24a2156c7e016d79a1c200c381/HEART%20DISEASE%20DASHBOARD.png")
+![imagealt](https://github.com/akankshab2003-cell/HEART_DISEASE_ANALYSIS/blob/08c1f6f8a0789a24a2156c7e016d79a1c200c381/HEART%20DISEASE%20DASHBOARD.png)
